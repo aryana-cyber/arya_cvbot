@@ -1,17 +1,21 @@
 # Arya CV Bot
 
-Bot Telegram yang mengubah file .txt menjadi .vcf (contact vCard).  
-Cocok untuk membuat CV digital secara cepat dan otomatis.
+Bot Telegram yang mengubah file .txt menjadi .vcf (vCard kontak) secara otomatis.  
+Cocok untuk pembuatan CV digital atau menyimpan banyak kontak dengan cepat.
 
-## Fitur
+## ✨ Fitur
 - Convert file .txt ke .vcf
 - Rename file sesuai permintaan user
-- Kirim file .vcf ke user langsung lewat Telegram
+- Kirim file .vcf ke user via Telegram
+- Mendukung perintah bot otomatis
 
-## Cara Menggunakan
+## 🚀 Cara Menggunakan
 1. Kirim file .txt ke bot Telegram
-2. Bot akan mengubah file menjadi .vcf
-3. File hasil dikirim kembali ke user
+2. Bot mengubah file menjadi .vcf
+3. File dikirim kembali ke user
 
-## Dibuat oleh
-Arya Sastra 🧠✨
+## 🛠 Cara Menjalankan
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/aryana-cyber/arya_cvbot.git
+   cd arya_cvbot
